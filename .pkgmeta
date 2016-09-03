@@ -1,0 +1,8 @@
+package-as: oUF_DispelHighlight
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - README.md

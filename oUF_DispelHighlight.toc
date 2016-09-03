@@ -1,0 +1,8 @@
+## Interface: 70000
+## Author: p3lim
+## Version: @project-version@
+## Title: oUF DispelHighlight
+## Notes: Highlights frames with units affected by debuffs that can be removed by the player
+## RequiredDeps: oUF
+
+oUF_DispelHighlight.lua
